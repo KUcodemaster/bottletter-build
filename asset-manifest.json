@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bottletter-build/static/css/main.073c9b0a.css",
+    "main.js": "/bottletter-build/static/js/main.50abcd8b.js",
+    "index.html": "/bottletter-build/index.html",
+    "main.073c9b0a.css.map": "/bottletter-build/static/css/main.073c9b0a.css.map",
+    "main.50abcd8b.js.map": "/bottletter-build/static/js/main.50abcd8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.50abcd8b.js"
+  ]
+}
